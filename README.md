@@ -6,7 +6,8 @@
 É uma ave piciforme da família Picidae. Conhecido também como pica-pau-de-garganta-preta e pica-pau-bico-de-marfim. Mede entre 33 e 38 centímetros de comprimento e pesa entre 181 e 284 gramas.
 Apresenta dimorfismo sexual. O macho tem a cabeça e topete vermelhos, base do bico com uma mancha branca e nódoa alvinegra subauricular. A fêmea tem o alto e a parte de trás da cabeça pretos e uma larga faixa branca entre os olhos e a base do bico. Faixa branca em cada lado do pescoço indo até as escapulares. Partes superiores pretas com um “V” branco nas costas. Garganta, pescoço anterior e peito negros uniforme. Barriga branco-pardacentas barradas de preto. Ocorrem indivíduos com mancha esbranquiçada nas primárias. Macho jovem com penas encarnadas no alto da cabeça.
 É bastante parecido com pica-pau-de-banda-branca(Dryocopus lineatus), por vezes coexistindo lado a lado em um mesmo território. Mas, enquanto o Drycopus lineatus possui o bico acinzentado e a íris branca, este possui o bico branco e a íris amarelada.
-
+# Características 
+Vive aos pares ou em grupos de até 5 indivíduos, arrancando a casca de grandes árvores mortas em busca de larvas de insetos. Também come frutos.   
 ![download (3)](https://github.com/051gabriel/Animais/assets/147156518/d860b5e1-f8b9-466e-b01e-8abe4657f6dc)
 
 ## A onça-pintada 
